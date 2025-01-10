@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 const Home = () => {
   return (
     <>
+      <h1>Hello worlddd...</h1>
       <Helmet>
         <title>PhysioHealth - Professional Physiotherapy Clinic</title>
         <meta name="description" content="Leading physiotherapy clinic offering expert treatment for pain relief, rehabilitation, and injury recovery. Book your appointment today." />
